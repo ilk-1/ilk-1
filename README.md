@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hey 👋, bro
 
 <p>
-    <span><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" /></span>
+    <span>
+        <a href="https://github.com/ilk-1/ilk-1/blob/main/WeChatQRCode.jpg">
+            <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+        </a>
+    </span>
     <span><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /></span>
     <span><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></span>
 </p>
