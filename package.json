@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "hello": "ts-node intro.ts"
+    "hello": "ts-node intro.ts",
+    "push": "git add . && git commit -m \"update readme\" && git push origin main"
   },
   "dependencies": {
     "ts-node": "10.9.2",
