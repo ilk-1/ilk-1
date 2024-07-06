@@ -2,12 +2,14 @@
 
 <p>
     <span>
-        <a href="https://github.com/ilk-1/ilk-1/blob/main/WeChatQRCode.jpg">
-            <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
-        </a>
+        <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
     </span>
-    <span><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /></span>
-    <span><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></span>
+    <span>
+        <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+    </span>
+    <span>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    </span>
 </p>
 
 ```ts
@@ -83,3 +85,5 @@ my.sayHello();
         <img src="https://img.shields.io/badge/rollup%20js-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white" />
     </span>
 </p>
+
+If you want to communicate with me about open source, you can click [here](https://github.com/ilk-1/ilk-1/blob/main/WeChatQRCode.jpg) to contact me in WeChat.
