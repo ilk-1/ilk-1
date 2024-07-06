@@ -1,35 +1,42 @@
 ## Hi there 👋
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
 <p>
+    <span><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" /></span>
     <span><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /></span>
     <span><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></span>
 </p>
 
 ```ts
+/**
+ * If you wan't to run this script.
+ * Just follow the steps bellow.
+ * 
+ * $ git clone https://github.com/ilk-1/ilk-1
+ * $ cd ilk-1
+ * $ pnpm install
+ * $ pnpm hello
+ */
+
+
 class FrontendEngineer {
-    name: string;
-    email: string;
+    name = "ilk-1";
+    email = "ilovekfc1024@qq.com";
     // Yeah, forever 20
-    age: 20;
-    nation: string;
+    age = 20;
+    nation = "China";
 
-    hobbyList: string[];
+    hobbyList: string[] = [];
 
-    constructor(...) {...}
+    sayHello = () => console.log("Hello!");
 }
 
-const my = (new FrontendEngineer(
-    name: "ilk-1",
-    email: "ilovekfc1024@qq.com",
-    nation: "China"
-)).hobbyList.push(
+const my = new FrontendEngineer();
+my.hobbyList.push(
     "Programming", 
     "Reading", 
-    "Mountain Climbing"
+    "Mountain Climbing",
 );
-
+my.sayHello();
 ```
 
 ### Technologies
